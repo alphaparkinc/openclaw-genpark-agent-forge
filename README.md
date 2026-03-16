@@ -1,0 +1,2 @@
+# openclaw-genpark-agent-forge
+Stop creating agents one by one like it is a hobby. `openclaw-genpark-agent-forge` is an industrial-scale manufacturing engine for OpenClaw nodes. It allows you to programmatically spawn 100+ task-specific agents based on a single intent, and deploy them across the GenPark protocol in seconds.
